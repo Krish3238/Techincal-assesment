@@ -1,0 +1,6 @@
+# .gitignore
+*.pyc
+__pycache__/
+.terraform/
+*.tfstate
+*.tfstate.backup
