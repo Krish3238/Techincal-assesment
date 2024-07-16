@@ -1,4 +1,4 @@
-variable "project_id" {
+variable "windy-gearbox-429117-n2" {
   description = "The ID of the GCP project"
 }
 
